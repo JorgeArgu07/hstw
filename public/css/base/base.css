@@ -1,0 +1,26 @@
+.main-sidebar {
+  background-color: #FFFFFF;
+}
+
+.sidebar p, .sidebar b, .sidebar span, .sidebar i {
+  color: #000000;
+}
+
+.main-header {
+  background-color: #dc0007;
+}
+
+i .btn .fa-search .fa-print .fa-credit-card {
+  color: white;
+  font-size: 48px;
+}
+
+.input-group .easy-autocomplete {
+  width: 80%;
+}
+
+.input-group-append {
+  width: 20%;
+}
+
+/*# sourceMappingURL=base.css.map */
